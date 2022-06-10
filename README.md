@@ -8,4 +8,10 @@ Part 3 Extract Information and Generate Dataframe
 
 Part 4 Export Dataframe to CSV
 
+---------------------------------------------------------------------------------------------
+About the dataset:
+
+The dataset related to this project is web-scraped by myself via python(beatiful) and basic HTML knowledge.
+
+The Chinese Jokes Blog is: https://duanzixing.com/page/1/
 
